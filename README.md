@@ -23,21 +23,21 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosaugustolima/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcosaugusto.oficial/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maugusilima)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosrykon)
 [![DIO](https://img.shields.io/badge/DIO.me-000000?style=for-the-badge&logo=discover&logoColor=white)](https://web.dio.me/users/m_augustt)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Marcos GitHub Stats](https://github-readme-stats.vercel.app/api?username=maugusilima&theme=transparent&bg_color=000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
+![Marcos GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosrykon&theme=transparent&bg_color=000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
 
 
 ---
 
 ## 📌 Projeto em Destaque | Featured Project
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=maugusilima&repo=dio-lab-open-source&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)](https://github.com/maugusilima/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosrykon&repo=dio-lab-open-source&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)](https://github.com/marcosrykon/dio-lab-open-source)
 
 ---
 
